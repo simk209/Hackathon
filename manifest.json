@@ -1,0 +1,16 @@
+{
+  "manifest_version": 2,
+  "name": "Inspirational Quote Generator",
+  "version": "1.0",
+  "description": "chrome extension that gives you inspirational quotes",
+  "js": "./main.js",
+  "html": "./index.html",
+  "css": "./styles.css",
+  "browser_action": {
+    "default_popup": "./index.html",
+    "default_icon": { "128": "./128cat.png" }
+  },
+  "icons": {
+    "128": "./128cat.png"
+  }
+}
