@@ -15,3 +15,4 @@ function onclick() {
       author.innerText = response.author;
     });
 }
+console.log('test');
