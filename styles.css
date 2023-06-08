@@ -43,5 +43,14 @@ body {
   );
   text-align: center;
   font-family: 'Poppins', sans-serif;
-  padding: 5px;
+  padding: 8px;
+}
+
+.quotes{
+  font-size: 14px;
+
+}
+
+.author{
+  font-weight: lighter;
 }
